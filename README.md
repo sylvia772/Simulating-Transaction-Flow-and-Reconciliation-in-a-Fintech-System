@@ -122,7 +122,7 @@ This project was an attempt to truly understand backend data behavior in fintech
 \- PostgreSQL (via pgAdmin)  
 \- SQL (DDL, DML, Functions, CTEs, Joins)  
 \- Microsoft Word (Report)  
-\- GitHub (for versioning — optional)
+
 
 ## **🔚 Conclusion**
 
